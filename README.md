@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alex.
+- 👀 I’m interested in developing programming skills using PHP as the main tool.
+- 🌱 I’m currently learning by practice on a new Symfony project from scratch.
